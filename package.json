@@ -1,0 +1,19 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "search literals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertoLSobrinos/proyecto1.git"
+  },
+  "author": "AlbertoLSobrinos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertoLSobrinos/proyecto1/issues"
+  },
+  "homepage": "https://github.com/AlbertoLSobrinos/proyecto1#readme"
+}
